@@ -22,11 +22,6 @@ npm install
 - Convert between different currencies
 - Display flag icons for each country
 - Real-time currency conversion rates
-
-## Install dependencies
-```
-npm install
-
 ```
 # Usage 
 1. Start the developement server.
